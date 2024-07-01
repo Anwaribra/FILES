@@ -17,6 +17,7 @@ git clone https://github.com/Anwaribra/PDF-to-Word-Converter-in-Python.git
  cd pdf-to-word-converter
 ```
 ## Script code
+'''
 import fitz
 def pdf_to_word(pdf_path, word_path):
     # Open the PDF file
@@ -42,5 +43,5 @@ word_path = 'A:/FILES/TBATE.docx'
 
 # Convert PDF to Word
 pdf_to_word(pdf_path, word_path)
-
+'''
      
