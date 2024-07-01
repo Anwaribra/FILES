@@ -10,3 +10,10 @@ PyMuPDF library
 python-docx library
  # Installation 
     pip install PyMuPDF python-docx
+# Usage
+Clone the repository:
+```
+git clone https://github.com/Anwaribra/PDF-to-Word-Converter-in-Python.git
+ cd pdf-to-word-converter
+```
+     
