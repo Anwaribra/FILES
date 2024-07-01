@@ -17,8 +17,7 @@ git clone https://github.com/Anwaribra/PDF-to-Word-Converter-in-Python.git
  cd pdf-to-word-converter
 ```
 ## Script code
-'''
-import fitz
+''' import fitz
 def pdf_to_word(pdf_path, word_path):
     # Open the PDF file
     pdf_document = fitz.open(pdf_path)
@@ -42,6 +41,6 @@ pdf_path = 'A:/FILES/TBTAE VOL04.pdf'
 word_path = 'A:/FILES/TBATE.docx'
 
            # Convert PDF to Word
-pdf_to_word(pdf_path, word_path)
-'''
+pdf_to_word(pdf_path, word_path) '''
+
      
