@@ -46,6 +46,3 @@ word_path = 'A:/FILES/TBATE.docx'
 
 # Convert PDF to Word
 pdf_to_word(pdf_path, word_path)
-
-
-     
