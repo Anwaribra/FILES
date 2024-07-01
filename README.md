@@ -37,11 +37,11 @@ def pdf_to_word(pdf_path, word_path):
     # Save the Word document
     doc.save(word_path)
 
-# Specify the paths to your PDF and Word files
+        # Specify the paths to your PDF and Word files
 pdf_path = 'A:/FILES/TBTAE VOL04.pdf'
 word_path = 'A:/FILES/TBATE.docx'
 
-# Convert PDF to Word
+           # Convert PDF to Word
 pdf_to_word(pdf_path, word_path)
 '''
      
