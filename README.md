@@ -4,7 +4,7 @@ This repository contains a Python script that extracts text from PDF files and c
 - Extract text from each page of a PDF file.
 - Create a new Word document and add the extracted text.
 - Save the Word document to a specified location.
-### Requirements
+### Requirements 
 - Python 3.x
 - `PyMuPDF` library
 - `python-docx` library
