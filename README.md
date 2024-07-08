@@ -7,7 +7,7 @@ This repository contains a Python script that extracts text from PDF files and c
 ### Requirements 
 - Python 3.x 
 - `PyMuPDF` library
-- `python-docx` library
+- `python-docx` library 
  # Installation 
     pip install PyMuPDF python-docx
 # Usage
